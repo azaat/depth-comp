@@ -1,1 +1,1 @@
-# 2-smartphone stereo toolkit
+# depth-comp
